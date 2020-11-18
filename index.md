@@ -18,7 +18,7 @@
 		}
 		div{
   			display: inline-block;
-  			width: 40%;
+  			width: 38%;
 		}
 	}
 		</style>
@@ -31,8 +31,8 @@
 		3. Each link has a magnitude. The greater this magnitude, the wider the link. To view the magnitude of a link, place your mouse over it. <br> <br></h2>
 		
 		<div><h3>TD Payment-related Practice</h3></div><!--
-		--><div><h3>TD Effect</h3></div><!--
-		--><div><h3>Reason for TD Non-payment</h3></div>
+		--><div><h3>        TD Effect          </h3></div><!--
+		--><div><h3> Reason for TD Non-payment </h3></div>
 	
 		<object type="image/svg+xml" data="diagram.svg" class="logo"></object>
   </body>
