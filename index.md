@@ -31,9 +31,9 @@
 		3. Each link has a magnitude. The greater this magnitude, the wider the link. To view the magnitude of a link, place your mouse over it. <br> <br></h2>
 		<div class="lado">
 
-		<h3 class="text-center"><center>TD Payment-related Practice</center></h3>
-		<h3 class="text-center"><center>TD Effect</center></h3>
-		<h3 class="text-center"><center>Reason for TD Non-payment</center></h3>
+		<h3>TD Payment-related Practice</h3>
+		<h3>TD Effect</h3>
+		<h3>Reason for TD Non-payment</h3>
 	</div>
 	
 		<object type="image/svg+xml" data="diagram.svg" class="logo"></object>
