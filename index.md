@@ -22,7 +22,7 @@
 			Some instructions: <br>
 			1. A node represents an effect, a practice, or a reason for TD non-payment. <br>
 			2. A link represents the relationship between an effect and a practice or an effect and a reason. <br>
-			3. Each link has a magnitude. The greater this magnitude, the wider the link. To view the magnitude of a link, place your mouse over it. <br> <br>
+			3. Each link has a magnitude. The greater this magnitude, the wider the link. To view the magnitude of a link, place your mouse over it. <br> <br></h2>
 	
 			<h2 class="text-center"><center>TD Payment-related Practice</center></h2>
 			<h2 class="text-center"><center>TD Effect</center></h2>
