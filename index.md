@@ -16,10 +16,6 @@
 			font-size: 15px;
 			color: Black;
 		}
-		.lado {
-    			-webkit-column-count: 3; /* Chrome, Safari, Opera */
-    			-moz-column-count: 3; /* Firefox */
-    			column-count: 3;
 	}
 		</style>
   <body>
@@ -29,12 +25,10 @@
 		1. A node represents an effect, a practice, or a reason for TD non-payment. <br>
 		2. A link represents the relationship between an effect and a practice or an effect and a reason. <br>
 		3. Each link has a magnitude. The greater this magnitude, the wider the link. To view the magnitude of a link, place your mouse over it. <br> <br></h2>
-		<div class="lado">
-
-		<h3>TD Payment-related Practice</h3>
-		<h3>TD Effect</h3>
-		<h3>Reason for TD Non-payment</h3>
-	</div>
+		
+		<div><h3>TD Payment-related Practice</h3></div><!--
+		--><div><h3>TD Effect</h3></div><!--
+		--><div><h3>Reason for TD Non-payment</h3></div>
 	
 		<object type="image/svg+xml" data="diagram.svg" class="logo"></object>
   </body>
