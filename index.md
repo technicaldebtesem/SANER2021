@@ -30,9 +30,9 @@
 		2. A link represents the relationship between an effect and a practice or an effect and a reason. <br>
 		3. Each link has a magnitude. The greater this magnitude, the wider the link. To view the magnitude of a link, place your mouse over it. <br> <br></h2>
 		
-		<div><h3>TD Payment-related Practice</h3></div><!--
-		--><div><h3>        TD Effect          </h3></div><!--
-		--><div><h3> Reason for TD Non-payment </h3></div>
+		<div><h3 class="text-left"><left>TD Payment-related Practice</left></h3></div><!--
+		--><div><h3 class="text-center"><center>TD Effect</center></h3></div><!--
+		--><div><h3 class="text-right"><right>Reason for TD Non-payment</right></h3></div>
 	
 		<object type="image/svg+xml" data="diagram.svg" class="logo"></object>
   </body>
