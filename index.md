@@ -1,4 +1,4 @@
-<html>
+	<html>
 		
 		<style>
 		text {
@@ -22,7 +22,7 @@
 		}
 	}
 		</style>
-  <body>
+  	<body>
     <h1 class="text-center"><center>Relationship between Technical Debt Effects and Technical Debt Payment</center></h1>
     <h2> The alluvial diagram below represents the relationships between the top 10 technical debt (TD) effects and their TD payment-related practices and reasons for TD non-payment. <br> <br>
 		Some instructions: <br>
@@ -35,5 +35,5 @@
 		--><div align="right"><h3>Reason for TD Non-payment</h3></div>
 	
 		<object type="image/svg+xml" data="diagram.svg" class="logo"></object>
-  </body>
-</html>
+  	</body>
+	</html>
