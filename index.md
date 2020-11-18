@@ -33,7 +33,8 @@
 		<div align="left"><h3>TD Payment-related Practice</h3></div><!--
 		--><div align="center"><h3>TD Effect</h3></div><!--
 		--><div align="right"><h3>Reason for TD Non-payment</h3></div>
-	
+		
+		<!--Alluvial diagram was built in SankeyMATIC (BETA) available at http://sankeymatic.com/build/.-->
 		<object type="image/svg+xml" data="diagram.svg" class="logo"></object>
   </body>
 </html>
