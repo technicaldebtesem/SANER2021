@@ -16,6 +16,10 @@
 			font-size: 15px;
 			color: Black;
 		}
+		div{
+  			display: inline-block;
+  			width: 50%;
+		}
 	}
 		</style>
   <body>
