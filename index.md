@@ -32,7 +32,7 @@
 		<div class="lado">
 
 		<h3>TD Payment-related Practice</h3>
-		<h3 class="text-center"><center>TD Effect</center></h3>
+		<h3>TD Effect</h3>
 		<h3>Reason for TD Non-payment</h3>
 	</div>
 	
