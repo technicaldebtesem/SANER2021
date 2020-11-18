@@ -11,6 +11,11 @@
 			font-size: 13px;
 			color: Black;
 		}
+		
+		h3 {
+			font-size: 15px;
+			color: Black;
+		}
 		.lado {
     			-webkit-column-count: 3; /* Chrome, Safari, Opera */
     			-moz-column-count: 3; /* Firefox */
@@ -26,9 +31,9 @@
 		3. Each link has a magnitude. The greater this magnitude, the wider the link. To view the magnitude of a link, place your mouse over it. <br> <br></h2>
 		<div class="lado">
 
-		<h2>TD Payment-related Practice</h2>
-		<h2>TD Effect</h2>
-		<h2>Reason for TD Non-payment</h2>
+		<h3 class="text-center"><center>TD Payment-related Practice</center></h3>
+		<h3 class="text-center"><center>TD Effect</center></h3>
+		<h3 class="text-center"><center>Reason for TD Non-payment</center></h3>
 	</div>
 	
 		<object type="image/svg+xml" data="diagram.svg" class="logo"></object>
