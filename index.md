@@ -3,7 +3,7 @@
 		<style>
 		text {
 			font-family: sans-serif;
-			font-size: 12px;
+			font-size: 14px;
 			fill: #556B2F;
 		}
 
