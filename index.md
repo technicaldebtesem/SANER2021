@@ -18,7 +18,7 @@
 		}
 		div{
   			display: inline-block;
-  			width: 34%;
+  			width: 33%;
 		}
 	}
 		</style>
