@@ -6,7 +6,7 @@
     
     
     
-    <panelGrid columns="3">
+    <panelGrid rows="3">
     	<h2 class="text-center"><center>TD Payment-related Practice</center></h2>
 	<h2 class="text-center"><center>TD Effect</center></h2>
 	<h2 class="text-center"><center>Reason for TD Non-payment</center></h2>
