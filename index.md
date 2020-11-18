@@ -1,4 +1,16 @@
 <html>
+	<style>
+		text {
+			font-family: sans-serif;
+			font-size: 12px;
+			fill: #556B2F;
+		}
+
+		h2 {
+			font-size: 13px;
+			color: Black;
+		}
+	</style>
   <body>
     <h1 class="text-center"><center>Relationship between Technical Debt Effects and Technical Debt Payment</center></h1>
     <h2> The alluvial diagram below represents the relationships between the top 10 technical debt (TD) effects and their TD payment-related practices and reasons for TD non-payment. <br> <br>
