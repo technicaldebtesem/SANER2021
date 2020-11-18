@@ -1,19 +1,5 @@
 
-	<style>
-		text {
-			font-family: sans-serif;
-			font-size: 12px;
-			fill: #556B2F;
-		}
-
-		h2 {
-			font-size: 13px;
-			color: Black;
-		}
-		svg {
-		 	width: 90%;
-		}
-	</style>
+	<html>
 		<body>
       
 			<h1 class="text-center"><center>Relationship between Technical Debt Effects and Technical Debt Payment</center></h1>
